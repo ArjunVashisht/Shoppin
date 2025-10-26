@@ -9,6 +9,9 @@ const Navbar = () => {
             <span className="text-2xl font-bold text-indigo-600 hover:text-indigo-700 transition-colors duration-300">
               Shoppin'
             </span>
+            <span> 
+              <a href='https://drive.google.com/file/d/1U64Uhp__MvYPwO8hwMMOYgvxIUREjOpW/view?usp=sharing'>APK</a>
+            </span>
           </div>
         </div>
       </div>
